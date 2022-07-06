@@ -7,6 +7,9 @@
 - Email => kasiyapo@gmail.com
 - เบอร์โทรศัพท์ => 0924077881
 
+- สิ่งที่ต้องการจะชอบ
+- สิ่งที่ชอบ สื่อบันเทิงทุกชนิด
+
 <!---
 9ter/9ter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
