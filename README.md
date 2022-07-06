@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @9ter
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- รหัสนักศึกษา => 116310462012-0
+- ชื่อ => นายกสิยพงศ์ หิรัญศรี
+- คณะ => วิศวกรรมศาสตร์
+- สาขา => คอมพิวเตอร์
+- Line ID => sostoe
+- Email => kasiyapo@gmail.com
+- เบอร์โทรศัพท์ => 0924077881
 
 <!---
 9ter/9ter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
